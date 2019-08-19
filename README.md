@@ -1,2 +1,2 @@
 # RotateHelper
-A Program designed to aid the preparation and execution of all the clone commands required to rotate an object in Minecraft.
+A Program designed to aid the preparation and execution of all the clone commands required to rotate an object in Minecraft. Included in this project is ErrorWindow.java and TempDetails.java which show the error popups with details, which may be of general interest. A lot of RotateHelper re-uses code from MirrorHelper. All that's essentially changed is the ```math``` and the visuals. Enjoy!
